@@ -2,7 +2,7 @@
 
 Overview:
 
-Th pe purpose of this roject  is to analyze Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members. We use different functions such as; PySpark to perform the ETL process to extract the dataset, transform the data, connect to AWS RDS instance, load the transformed data into pgAdmin and to calculate different metrics. Keeping a focuse specifically on US review video games.
+Th purpose of this project is to analyze Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members. We use different functions such as; PySpark to perform the ETL process to extract the dataset, transform the data, connect to AWS RDS instance, load the transformed data into pgAdmin and to calculate different metrics. Keeping a focuse specifically on US video games reviews.
 
 Results:
 
